@@ -46,13 +46,6 @@
   
 </h3>
 
-<h3 align="left">
-  
-  [![hh.ru](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=23122024)](https://t.me/UrbanWolfDen4ik)
-  
-</h3>
-
-
 <!--
 Портфолио и README.md будут дорабатываться, спасибо Олесе Косых за идею)
 -->
