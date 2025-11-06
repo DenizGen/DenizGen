@@ -18,9 +18,8 @@
 8. [pika](https://github.com/pika/pika)
 9. [difflib](https://github.com/python/cpython/blob/3.13/Lib/difflib.py)
 10. [psycopg2](https://github.com/psycopg/psycopg2)
-11. [appium](https://github.com/appium/python-client)
-12. [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
-13. [faker](https://github.com/joke2k/faker)
+11. [pytest-xdist](https://github.com/pytest-dev/pytest-xdist)
+12. [faker](https://github.com/joke2k/faker)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizGen&theme=cobalt2&layout=compact"width="48%"/> 
